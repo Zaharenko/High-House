@@ -1,0 +1,251 @@
+.menu {
+  background-color: #2a2a2a;
+  min-height: 150px;
+  margin-top: 1.25em;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  z-index: 10000;
+  position: relative;
+}
+.menu h1 {
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+}
+.menu a {
+  color: #fff;
+}
+.menu a:hover {
+  color: #515151;
+}
+.name a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+.map {
+  position: relative;
+  top: 2px;
+}
+.map i {
+  position: absolute;
+  top: 15px;
+}
+.map p {
+  position: absolute;
+  left: 15px;
+}
+.icon {
+  margin-top: 5px;
+}
+.phone {
+  margin-right: 10px;
+}
+.border {
+  width: 99%;
+  border: 1px solid #fff;
+  min-height: 130px;
+}
+.border li {
+  display: inline-block;
+  font-size: 16px;
+}
+.header-menu {
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.header-menu a {
+  padding: 18px 15px;
+  margin-right: 25px;
+}
+.header-menu a:hover {
+  border: 1px solid #fff;
+  color: #fff;
+}
+#myCarousel img {
+  width: 100%;
+  height: auto;
+}
+.text {
+  text-shadow: 5px 5px 5px #000, 0 0 1em #5a5b5a;
+  font-size: 39px;
+  font-family: 'HelveticaNeueCyr-Medium', sans-serif;
+}
+.str {
+  text-transform: uppercase;
+}
+.katalog {
+  margin-bottom: 15px;
+}
+.katalog a {
+  color: #fff;
+  padding: 5px;
+}
+.katalog a:hover {
+  border: 1px solid #fff;
+  color: #fff;
+}
+.katalog li {
+  display: inline-block;
+  font-size: 16px;
+  background-color: #2a2a2a;
+  text-transform: uppercase;
+  padding: 10px 30px;
+  margin-right: 20px;
+}
+.katalog li:hover {
+  height: 50px;
+}
+.line {
+  margin-top: 45px;
+  margin-bottom: 0px;
+  border: 0;
+  border-top: 3px solid #878787;
+  position: relative;
+}
+.circle {
+  width: 50px;
+  height: 50px;
+  background-color: #fff;
+  border-radius: 25px;
+  position: absolute;
+  color: #878787;
+  top: -25px;
+  left: 47%;
+  font-size: 34px;
+  text-align: center;
+}
+.caption {
+  margin-bottom: 60px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.middle {
+  margin-bottom: 70px;
+}
+.middle p {
+  color: #666;
+}
+.middle a {
+  color: #fff;
+  padding: 5px;
+}
+.middle span {
+  background-color: #2a2a2a;
+  padding: 10px 15px;
+  position: relative;
+  top: 10px;
+}
+.middle a:hover {
+  border: 1px solid #fff;
+  color: #fff;
+}
+.tovar {
+  height: 320px !important;
+}
+.str-1 {
+  float: right;
+  margin-top: -245px;
+  margin-right: -10px;
+  cursor: pointer;
+}
+.str-2 {
+  float: left;
+  margin-top: 50px;
+  cursor: pointer;
+}
+.str-3 {
+  float: right;
+  margin-top: -40px;
+  margin-right: -10px;
+  cursor: pointer;
+}
+.str-4 {
+  float: left;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.marketing-1 {
+  margin-bottom: 60px;
+}
+.middle-logo {
+  margin-bottom: 80px;
+}
+.about {
+  text-align: justify;
+  font-size: 11.9px;
+}
+.sale {
+  margin-top: 80px;
+}
+.sofa {
+  width: 100%;
+  min-height: 500px;
+}
+.sofa p {
+  color: #a9a9a9;
+  font-size: 14px;
+}
+.sofa h1 {
+  color: #292929;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.bottom-menu {
+  height: 115px;
+  background-color: #2a2a2a;
+}
+.back-top {
+  background-color: #232323;
+  height: 55px;
+  color: #fff;
+}
+.back-top p {
+  padding-left: 15px;
+}
+.work {
+  padding-right: 45px;
+}
+.zakaz {
+  margin-top: 10px;
+}
+.zakaz h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.interest {
+  margin-top: 30%;
+}
+.btn-bottom {
+  background-color: #2a2a2a;
+  padding: 10px 25px;
+  margin-top: 30px;
+  display: inline-block;
+  text-transform: uppercase;
+}
+.btn-bottom a {
+  color: #fff;
+}
+.bottom-menu {
+  padding-top: 15px;
+  color: #fff;
+  height: 130px;
+}
+.bottom-menu h1 {
+  color: #fff;
+  margin-top: -10px;
+}
+.bottom-menu i {
+  color: #fff;
+}
+.bottom-menu a {
+  color: #fff;
+}
+.email {
+  position: relative;
+  bottom: -20px;
+}

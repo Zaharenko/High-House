@@ -1,0 +1,145 @@
+@media screen and (max-width:1024px){
+  	.adaptive{
+  		margin-top: 1em;
+  	}
+  	.header-menu a {
+	    margin-right: 0px;
+	    padding: 11px 5px;
+	}
+	.border {
+	    min-height: 100px;
+	}
+	.menu{
+		min-height: 110px;
+	}
+	.carousel {
+    	margin-top: 0px;	
+	}
+	.menu{
+		margin-top: 0px;
+	}
+	.carousel-caption {
+	    top: 25%;
+	}
+	.katalog li {
+	    margin-right: 18px;
+	}
+	.info img{
+		height: 680px;
+	}
+	.interest {
+	    margin-top: 10%;
+	}
+	.email {
+		top: 5px;
+    	bottom: 0px;
+	}
+	.bottom-menu {
+	    height: 150px;
+	}
+	.marketing-1 {
+	    margin-bottom: 30px;
+	}
+	.about {
+	    font-size: 14.6px;
+	}
+	.cap{
+		text-align: right !important;
+	}
+	.name-logo{
+		text-align: center;
+	}
+	.menu1{
+		text-align: center;
+	}
+	.bottom-menu {
+	    height: 285px;
+	}
+	.zakaz h1 {
+    	text-transform: none;
+	}
+		
+}
+
+@media screen and (max-width:768px){
+	.carousel {
+    	margin-top: 0px;	
+	}
+	.menu{
+		margin-top: 0px;
+	}
+	.header-menu a {
+	    padding: 11px 5px;
+	}
+	.border li {
+	    font-size: 14px;
+	}
+	.katalog li {
+	    margin-right: 5px;
+	}
+	.katalog li {
+	    font-size: 11px;
+	}
+	.text {
+	    font-size: 32px;
+	}
+}
+   
+	
+
+@media only screen and (max-width:414px){
+	.header-menu {
+	    text-transform: none;
+	    margin-top: 0px;
+	}
+	.border li {
+	    font-size: 8px;
+	}
+	.header-menu a {
+	    padding: 0px;
+	}
+	.header-menu a:hover {
+	    color: red;
+	    border: none;
+	}
+	.text {
+	    font-size: 20px;
+	}
+	.carousel-caption {
+	    top: 20%;
+	}
+	.katalog li{
+		width: 100%;
+	}
+	.katalog li:hover{
+		height: auto;
+	}
+	.tovar {
+	    height: 350px !important;
+	    text-align: center;
+	}
+	.marketing-1 {
+	    margin-bottom: 5px;
+	}
+	.interest{
+		text-align: center !important;
+	}
+	.phone-email{
+		text-align: center;
+	}
+	.bottom-menu {
+	    height: 350px;
+	}
+	.back-top {
+	    text-align: center;
+	    height: 100px;
+	}
+} 
+
+@media only screen and (max-width:375px){
+	
+} 
+
+@media only screen and (max-width:320px){
+	
+}   
